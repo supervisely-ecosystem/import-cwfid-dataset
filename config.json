@@ -1,14 +1,12 @@
 {
-  "name": "Import robusta coffee leaf images dataset",
+  "name": "Import Crop/Weed Field Image Dataset",
   "type": "app",
   "categories": [
     "Images"
   ],
-  "description": "Import robusta coffee leaf images dataset",
+  "description": "Import Crop/Weed Field(swfid) Image Dataset",
   "docker_image": "supervisely/base-py-sdk:6",
   "main_script": "src/main.py",
-  "modal_template": "src/modal.html",
-  "modal_template_state": {"samplePercent":20},
   "task_location": "workspace_tasks",
   "isolate": true,
   "headless": true,
