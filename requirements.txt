@@ -1,0 +1,3 @@
+supervisely==6.7.22
+supervisely[apps]==6.7.22
+gdown
