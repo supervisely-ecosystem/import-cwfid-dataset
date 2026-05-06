@@ -1,6 +1,7 @@
 {
   "name": "Import Crop/Weed Field Image Dataset",
   "type": "app",
+  "instance_version": "6.15.60",
   "categories": [
     "Images"
   ],
